@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "K37pRJryddJwWa0N1pwkwx1UInvN0t15CNhmFKw26O4VFUR8OhgvFoonEanuoM7J7cUJc7z3YrgD/PlMe9K9Ag==",
+  "success": true,
+  "projectFilePath": "/home/abraao/Documentos/Csharp/livrocsharp-main/Cap05/OlaMundo_GetSet/OlaMundo_GetSet.csproj",
+  "expectedPackageFiles": [
+    "/home/abraao/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/abraao/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/abraao/.nuget/packages/microsoft.netcore.app.host.linux-x64/5.0.14/microsoft.netcore.app.host.linux-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

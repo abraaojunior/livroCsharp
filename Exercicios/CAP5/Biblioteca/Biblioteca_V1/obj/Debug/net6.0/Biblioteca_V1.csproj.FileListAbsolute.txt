@@ -1,0 +1,15 @@
+/home/abraao/Documentos/Estudos/livroCsharp/Exercicios/CAP5/Biblioteca/Biblioteca_V1/bin/Debug/net6.0/Biblioteca_V1
+/home/abraao/Documentos/Estudos/livroCsharp/Exercicios/CAP5/Biblioteca/Biblioteca_V1/bin/Debug/net6.0/Biblioteca_V1.deps.json
+/home/abraao/Documentos/Estudos/livroCsharp/Exercicios/CAP5/Biblioteca/Biblioteca_V1/bin/Debug/net6.0/Biblioteca_V1.runtimeconfig.json
+/home/abraao/Documentos/Estudos/livroCsharp/Exercicios/CAP5/Biblioteca/Biblioteca_V1/bin/Debug/net6.0/Biblioteca_V1.dll
+/home/abraao/Documentos/Estudos/livroCsharp/Exercicios/CAP5/Biblioteca/Biblioteca_V1/bin/Debug/net6.0/Biblioteca_V1.pdb
+/home/abraao/Documentos/Estudos/livroCsharp/Exercicios/CAP5/Biblioteca/Biblioteca_V1/obj/Debug/net6.0/Biblioteca_V1.csproj.AssemblyReference.cache
+/home/abraao/Documentos/Estudos/livroCsharp/Exercicios/CAP5/Biblioteca/Biblioteca_V1/obj/Debug/net6.0/Biblioteca_V1.GeneratedMSBuildEditorConfig.editorconfig
+/home/abraao/Documentos/Estudos/livroCsharp/Exercicios/CAP5/Biblioteca/Biblioteca_V1/obj/Debug/net6.0/Biblioteca_V1.AssemblyInfoInputs.cache
+/home/abraao/Documentos/Estudos/livroCsharp/Exercicios/CAP5/Biblioteca/Biblioteca_V1/obj/Debug/net6.0/Biblioteca_V1.AssemblyInfo.cs
+/home/abraao/Documentos/Estudos/livroCsharp/Exercicios/CAP5/Biblioteca/Biblioteca_V1/obj/Debug/net6.0/Biblioteca_V1.csproj.CoreCompileInputs.cache
+/home/abraao/Documentos/Estudos/livroCsharp/Exercicios/CAP5/Biblioteca/Biblioteca_V1/obj/Debug/net6.0/Biblioteca_V1.dll
+/home/abraao/Documentos/Estudos/livroCsharp/Exercicios/CAP5/Biblioteca/Biblioteca_V1/obj/Debug/net6.0/refint/Biblioteca_V1.dll
+/home/abraao/Documentos/Estudos/livroCsharp/Exercicios/CAP5/Biblioteca/Biblioteca_V1/obj/Debug/net6.0/Biblioteca_V1.pdb
+/home/abraao/Documentos/Estudos/livroCsharp/Exercicios/CAP5/Biblioteca/Biblioteca_V1/obj/Debug/net6.0/Biblioteca_V1.genruntimeconfig.cache
+/home/abraao/Documentos/Estudos/livroCsharp/Exercicios/CAP5/Biblioteca/Biblioteca_V1/obj/Debug/net6.0/ref/Biblioteca_V1.dll
