@@ -44,9 +44,21 @@ namespace Libraryclass
             _Paginas = Paginas;
             _Status = Status;
         }
-        public string Titulo
+        public string Titulo //Metodo para acesso a propriedade da classe "Titulo"
         {
-            get set
+            get {return _Titulo;} set { _Titulo = value;}
+        }
+        public string Autor 
+        {
+            get {return _Autor;} set { _Autor = value;}
+        }
+        public int Paginas
+        {
+            get {return _Paginas;} set { _Paginas = value;}
+        }
+        public bool Status
+        {
+            get {return _Status;} set { _Status = value;}
         }
         
 
